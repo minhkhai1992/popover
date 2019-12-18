@@ -1,0 +1,52 @@
+Image and font in Website
+
+Text Font:
+    +Font's Structure
+      +Text's font: is a group of image when text get all together
+      +The words: is a rectangle shape that all words stay in vertical in
+      that rectangle. ( Line-height)
+
+      +Letter-spacing: space between single words.
+      + Trick: height = line height
+
+      +font-size: the height of the text.
+
+    +Element's font:
+      +sans-serif: default for font.
+      +font-family: list all fonts.
+      +PC always set a default font for user
+        + Quick load when user access
+        + user's pc not always has it as a default
+      +script fonts:
+        + requirement access after download
+        + Slow loading/access
+        + Instance display
+        + Font face
+
+
+      +Icon Font
+
+The height of text = the height of element
+    Therefore element will display exactly 1 text row.
+
+Image on Website:
+    +bmp: bitmap
+    +jpg (jpeg): zip file in picture
+      + Quality image is supported
+      + alpha ( non support clear picture)
+      =>Scenery image, people image or camera image
+    +png: zip image
+      + support clear Image
+      + quality image is support
+      + Black and white color.
+    +gif:
+      +quality image is supported
+      +support shadown Image
+      +moment image
+
+    +image data uri
+    +svg:
+      +vector in math
+
+popover:
+tooltip
